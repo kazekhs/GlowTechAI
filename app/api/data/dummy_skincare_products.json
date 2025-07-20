@@ -1,0 +1,990 @@
+{
+  "oily_acne": [
+    {
+      "id": "oily_acne-1",
+      "name": "Acne Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+acne+product+1",
+      "description": "Acne product for oily skin - type 1.",
+      "skinType": "oily",
+      "concern": "acne"
+    },
+    {
+      "id": "oily_acne-2",
+      "name": "Acne Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+acne+product+2",
+      "description": "Acne product for oily skin - type 2.",
+      "skinType": "oily",
+      "concern": "acne"
+    },
+    {
+      "id": "oily_acne-3",
+      "name": "Acne Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+acne+product+3",
+      "description": "Acne product for oily skin - type 3.",
+      "skinType": "oily",
+      "concern": "acne"
+    }
+  ],
+  "oily_antiaging": [
+    {
+      "id": "oily_antiaging-1",
+      "name": "Anti Aging Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+anti aging+product+1",
+      "description": "Anti Aging product for oily skin - type 1.",
+      "skinType": "oily",
+      "concern": "anti aging"
+    },
+    {
+      "id": "oily_antiaging-2",
+      "name": "Anti Aging Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+anti aging+product+2",
+      "description": "Anti Aging product for oily skin - type 2.",
+      "skinType": "oily",
+      "concern": "anti aging"
+    },
+    {
+      "id": "oily_antiaging-3",
+      "name": "Anti Aging Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+anti aging+product+3",
+      "description": "Anti Aging product for oily skin - type 3.",
+      "skinType": "oily",
+      "concern": "anti aging"
+    }
+  ],
+  "oily_hydration": [
+    {
+      "id": "oily_hydration-1",
+      "name": "Hydration Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+hydration+product+1",
+      "description": "Hydration product for oily skin - type 1.",
+      "skinType": "oily",
+      "concern": "hydration"
+    },
+    {
+      "id": "oily_hydration-2",
+      "name": "Hydration Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+hydration+product+2",
+      "description": "Hydration product for oily skin - type 2.",
+      "skinType": "oily",
+      "concern": "hydration"
+    },
+    {
+      "id": "oily_hydration-3",
+      "name": "Hydration Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+hydration+product+3",
+      "description": "Hydration product for oily skin - type 3.",
+      "skinType": "oily",
+      "concern": "hydration"
+    }
+  ],
+  "oily_brightening": [
+    {
+      "id": "oily_brightening-1",
+      "name": "Brightening Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+brightening+product+1",
+      "description": "Brightening product for oily skin - type 1.",
+      "skinType": "oily",
+      "concern": "brightening"
+    },
+    {
+      "id": "oily_brightening-2",
+      "name": "Brightening Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+brightening+product+2",
+      "description": "Brightening product for oily skin - type 2.",
+      "skinType": "oily",
+      "concern": "brightening"
+    },
+    {
+      "id": "oily_brightening-3",
+      "name": "Brightening Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+brightening+product+3",
+      "description": "Brightening product for oily skin - type 3.",
+      "skinType": "oily",
+      "concern": "brightening"
+    }
+  ],
+  "oily_largepores": [
+    {
+      "id": "oily_largepores-1",
+      "name": "Large Pores Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+large pores+product+1",
+      "description": "Large Pores product for oily skin - type 1.",
+      "skinType": "oily",
+      "concern": "large pores"
+    },
+    {
+      "id": "oily_largepores-2",
+      "name": "Large Pores Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+large pores+product+2",
+      "description": "Large Pores product for oily skin - type 2.",
+      "skinType": "oily",
+      "concern": "large pores"
+    },
+    {
+      "id": "oily_largepores-3",
+      "name": "Large Pores Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=oily+large pores+product+3",
+      "description": "Large Pores product for oily skin - type 3.",
+      "skinType": "oily",
+      "concern": "large pores"
+    }
+  ],
+  "dry_acne": [
+    {
+      "id": "dry_acne-1",
+      "name": "Acne Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+acne+product+1",
+      "description": "Acne product for dry skin - type 1.",
+      "skinType": "dry",
+      "concern": "acne"
+    },
+    {
+      "id": "dry_acne-2",
+      "name": "Acne Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+acne+product+2",
+      "description": "Acne product for dry skin - type 2.",
+      "skinType": "dry",
+      "concern": "acne"
+    },
+    {
+      "id": "dry_acne-3",
+      "name": "Acne Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+acne+product+3",
+      "description": "Acne product for dry skin - type 3.",
+      "skinType": "dry",
+      "concern": "acne"
+    }
+  ],
+  "dry_antiaging": [
+    {
+      "id": "dry_antiaging-1",
+      "name": "Anti Aging Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+anti aging+product+1",
+      "description": "Anti Aging product for dry skin - type 1.",
+      "skinType": "dry",
+      "concern": "anti aging"
+    },
+    {
+      "id": "dry_antiaging-2",
+      "name": "Anti Aging Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+anti aging+product+2",
+      "description": "Anti Aging product for dry skin - type 2.",
+      "skinType": "dry",
+      "concern": "anti aging"
+    },
+    {
+      "id": "dry_antiaging-3",
+      "name": "Anti Aging Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+anti aging+product+3",
+      "description": "Anti Aging product for dry skin - type 3.",
+      "skinType": "dry",
+      "concern": "anti aging"
+    }
+  ],
+  "dry_hydration": [
+    {
+      "id": "dry_hydration-1",
+      "name": "Hydration Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+hydration+product+1",
+      "description": "Hydration product for dry skin - type 1.",
+      "skinType": "dry",
+      "concern": "hydration"
+    },
+    {
+      "id": "dry_hydration-2",
+      "name": "Hydration Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+hydration+product+2",
+      "description": "Hydration product for dry skin - type 2.",
+      "skinType": "dry",
+      "concern": "hydration"
+    },
+    {
+      "id": "dry_hydration-3",
+      "name": "Hydration Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+hydration+product+3",
+      "description": "Hydration product for dry skin - type 3.",
+      "skinType": "dry",
+      "concern": "hydration"
+    }
+  ],
+  "dry_brightening": [
+    {
+      "id": "dry_brightening-1",
+      "name": "Brightening Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+brightening+product+1",
+      "description": "Brightening product for dry skin - type 1.",
+      "skinType": "dry",
+      "concern": "brightening"
+    },
+    {
+      "id": "dry_brightening-2",
+      "name": "Brightening Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+brightening+product+2",
+      "description": "Brightening product for dry skin - type 2.",
+      "skinType": "dry",
+      "concern": "brightening"
+    },
+    {
+      "id": "dry_brightening-3",
+      "name": "Brightening Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+brightening+product+3",
+      "description": "Brightening product for dry skin - type 3.",
+      "skinType": "dry",
+      "concern": "brightening"
+    }
+  ],
+  "dry_largepores": [
+    {
+      "id": "dry_largepores-1",
+      "name": "Large Pores Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+large pores+product+1",
+      "description": "Large Pores product for dry skin - type 1.",
+      "skinType": "dry",
+      "concern": "large pores"
+    },
+    {
+      "id": "dry_largepores-2",
+      "name": "Large Pores Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+large pores+product+2",
+      "description": "Large Pores product for dry skin - type 2.",
+      "skinType": "dry",
+      "concern": "large pores"
+    },
+    {
+      "id": "dry_largepores-3",
+      "name": "Large Pores Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=dry+large pores+product+3",
+      "description": "Large Pores product for dry skin - type 3.",
+      "skinType": "dry",
+      "concern": "large pores"
+    }
+  ],
+  "combination_acne": [
+    {
+      "id": "combination_acne-1",
+      "name": "Acne Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+acne+product+1",
+      "description": "Acne product for combination skin - type 1.",
+      "skinType": "combination",
+      "concern": "acne"
+    },
+    {
+      "id": "combination_acne-2",
+      "name": "Acne Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+acne+product+2",
+      "description": "Acne product for combination skin - type 2.",
+      "skinType": "combination",
+      "concern": "acne"
+    },
+    {
+      "id": "combination_acne-3",
+      "name": "Acne Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+acne+product+3",
+      "description": "Acne product for combination skin - type 3.",
+      "skinType": "combination",
+      "concern": "acne"
+    }
+  ],
+  "combination_antiaging": [
+    {
+      "id": "combination_antiaging-1",
+      "name": "Anti Aging Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+anti aging+product+1",
+      "description": "Anti Aging product for combination skin - type 1.",
+      "skinType": "combination",
+      "concern": "anti aging"
+    },
+    {
+      "id": "combination_antiaging-2",
+      "name": "Anti Aging Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+anti aging+product+2",
+      "description": "Anti Aging product for combination skin - type 2.",
+      "skinType": "combination",
+      "concern": "anti aging"
+    },
+    {
+      "id": "combination_antiaging-3",
+      "name": "Anti Aging Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+anti aging+product+3",
+      "description": "Anti Aging product for combination skin - type 3.",
+      "skinType": "combination",
+      "concern": "anti aging"
+    }
+  ],
+  "combination_hydration": [
+    {
+      "id": "combination_hydration-1",
+      "name": "Hydration Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+hydration+product+1",
+      "description": "Hydration product for combination skin - type 1.",
+      "skinType": "combination",
+      "concern": "hydration"
+    },
+    {
+      "id": "combination_hydration-2",
+      "name": "Hydration Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+hydration+product+2",
+      "description": "Hydration product for combination skin - type 2.",
+      "skinType": "combination",
+      "concern": "hydration"
+    },
+    {
+      "id": "combination_hydration-3",
+      "name": "Hydration Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+hydration+product+3",
+      "description": "Hydration product for combination skin - type 3.",
+      "skinType": "combination",
+      "concern": "hydration"
+    }
+  ],
+  "combination_brightening": [
+    {
+      "id": "combination_brightening-1",
+      "name": "Brightening Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+brightening+product+1",
+      "description": "Brightening product for combination skin - type 1.",
+      "skinType": "combination",
+      "concern": "brightening"
+    },
+    {
+      "id": "combination_brightening-2",
+      "name": "Brightening Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+brightening+product+2",
+      "description": "Brightening product for combination skin - type 2.",
+      "skinType": "combination",
+      "concern": "brightening"
+    },
+    {
+      "id": "combination_brightening-3",
+      "name": "Brightening Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+brightening+product+3",
+      "description": "Brightening product for combination skin - type 3.",
+      "skinType": "combination",
+      "concern": "brightening"
+    }
+  ],
+  "combination_largepores": [
+    {
+      "id": "combination_largepores-1",
+      "name": "Large Pores Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+large pores+product+1",
+      "description": "Large Pores product for combination skin - type 1.",
+      "skinType": "combination",
+      "concern": "large pores"
+    },
+    {
+      "id": "combination_largepores-2",
+      "name": "Large Pores Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+large pores+product+2",
+      "description": "Large Pores product for combination skin - type 2.",
+      "skinType": "combination",
+      "concern": "large pores"
+    },
+    {
+      "id": "combination_largepores-3",
+      "name": "Large Pores Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=combination+large pores+product+3",
+      "description": "Large Pores product for combination skin - type 3.",
+      "skinType": "combination",
+      "concern": "large pores"
+    }
+  ],
+  "sensitive_acne": [
+    {
+      "id": "sensitive_acne-1",
+      "name": "Acne Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+acne+product+1",
+      "description": "Acne product for sensitive skin - type 1.",
+      "skinType": "sensitive",
+      "concern": "acne"
+    },
+    {
+      "id": "sensitive_acne-2",
+      "name": "Acne Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+acne+product+2",
+      "description": "Acne product for sensitive skin - type 2.",
+      "skinType": "sensitive",
+      "concern": "acne"
+    },
+    {
+      "id": "sensitive_acne-3",
+      "name": "Acne Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+acne+product+3",
+      "description": "Acne product for sensitive skin - type 3.",
+      "skinType": "sensitive",
+      "concern": "acne"
+    }
+  ],
+  "sensitive_antiaging": [
+    {
+      "id": "sensitive_antiaging-1",
+      "name": "Anti Aging Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+anti aging+product+1",
+      "description": "Anti Aging product for sensitive skin - type 1.",
+      "skinType": "sensitive",
+      "concern": "anti aging"
+    },
+    {
+      "id": "sensitive_antiaging-2",
+      "name": "Anti Aging Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+anti aging+product+2",
+      "description": "Anti Aging product for sensitive skin - type 2.",
+      "skinType": "sensitive",
+      "concern": "anti aging"
+    },
+    {
+      "id": "sensitive_antiaging-3",
+      "name": "Anti Aging Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+anti aging+product+3",
+      "description": "Anti Aging product for sensitive skin - type 3.",
+      "skinType": "sensitive",
+      "concern": "anti aging"
+    }
+  ],
+  "sensitive_hydration": [
+    {
+      "id": "sensitive_hydration-1",
+      "name": "Hydration Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+hydration+product+1",
+      "description": "Hydration product for sensitive skin - type 1.",
+      "skinType": "sensitive",
+      "concern": "hydration"
+    },
+    {
+      "id": "sensitive_hydration-2",
+      "name": "Hydration Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+hydration+product+2",
+      "description": "Hydration product for sensitive skin - type 2.",
+      "skinType": "sensitive",
+      "concern": "hydration"
+    },
+    {
+      "id": "sensitive_hydration-3",
+      "name": "Hydration Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+hydration+product+3",
+      "description": "Hydration product for sensitive skin - type 3.",
+      "skinType": "sensitive",
+      "concern": "hydration"
+    }
+  ],
+  "sensitive_brightening": [
+    {
+      "id": "sensitive_brightening-1",
+      "name": "Brightening Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+brightening+product+1",
+      "description": "Brightening product for sensitive skin - type 1.",
+      "skinType": "sensitive",
+      "concern": "brightening"
+    },
+    {
+      "id": "sensitive_brightening-2",
+      "name": "Brightening Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+brightening+product+2",
+      "description": "Brightening product for sensitive skin - type 2.",
+      "skinType": "sensitive",
+      "concern": "brightening"
+    },
+    {
+      "id": "sensitive_brightening-3",
+      "name": "Brightening Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+brightening+product+3",
+      "description": "Brightening product for sensitive skin - type 3.",
+      "skinType": "sensitive",
+      "concern": "brightening"
+    }
+  ],
+  "sensitive_largepores": [
+    {
+      "id": "sensitive_largepores-1",
+      "name": "Large Pores Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+large pores+product+1",
+      "description": "Large Pores product for sensitive skin - type 1.",
+      "skinType": "sensitive",
+      "concern": "large pores"
+    },
+    {
+      "id": "sensitive_largepores-2",
+      "name": "Large Pores Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+large pores+product+2",
+      "description": "Large Pores product for sensitive skin - type 2.",
+      "skinType": "sensitive",
+      "concern": "large pores"
+    },
+    {
+      "id": "sensitive_largepores-3",
+      "name": "Large Pores Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=sensitive+large pores+product+3",
+      "description": "Large Pores product for sensitive skin - type 3.",
+      "skinType": "sensitive",
+      "concern": "large pores"
+    }
+  ],
+  "normal_acne": [
+    {
+      "id": "normal_acne-1",
+      "name": "Acne Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+acne+product+1",
+      "description": "Acne product for normal skin - type 1.",
+      "skinType": "normal",
+      "concern": "acne"
+    },
+    {
+      "id": "normal_acne-2",
+      "name": "Acne Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+acne+product+2",
+      "description": "Acne product for normal skin - type 2.",
+      "skinType": "normal",
+      "concern": "acne"
+    },
+    {
+      "id": "normal_acne-3",
+      "name": "Acne Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+acne+product+3",
+      "description": "Acne product for normal skin - type 3.",
+      "skinType": "normal",
+      "concern": "acne"
+    }
+  ],
+  "normal_antiaging": [
+    {
+      "id": "normal_antiaging-1",
+      "name": "Anti Aging Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+anti aging+product+1",
+      "description": "Anti Aging product for normal skin - type 1.",
+      "skinType": "normal",
+      "concern": "anti aging"
+    },
+    {
+      "id": "normal_antiaging-2",
+      "name": "Anti Aging Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+anti aging+product+2",
+      "description": "Anti Aging product for normal skin - type 2.",
+      "skinType": "normal",
+      "concern": "anti aging"
+    },
+    {
+      "id": "normal_antiaging-3",
+      "name": "Anti Aging Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+anti aging+product+3",
+      "description": "Anti Aging product for normal skin - type 3.",
+      "skinType": "normal",
+      "concern": "anti aging"
+    }
+  ],
+  "normal_hydration": [
+    {
+      "id": "normal_hydration-1",
+      "name": "Hydration Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+hydration+product+1",
+      "description": "Hydration product for normal skin - type 1.",
+      "skinType": "normal",
+      "concern": "hydration"
+    },
+    {
+      "id": "normal_hydration-2",
+      "name": "Hydration Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+hydration+product+2",
+      "description": "Hydration product for normal skin - type 2.",
+      "skinType": "normal",
+      "concern": "hydration"
+    },
+    {
+      "id": "normal_hydration-3",
+      "name": "Hydration Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+hydration+product+3",
+      "description": "Hydration product for normal skin - type 3.",
+      "skinType": "normal",
+      "concern": "hydration"
+    }
+  ],
+  "normal_brightening": [
+    {
+      "id": "normal_brightening-1",
+      "name": "Brightening Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+brightening+product+1",
+      "description": "Brightening product for normal skin - type 1.",
+      "skinType": "normal",
+      "concern": "brightening"
+    },
+    {
+      "id": "normal_brightening-2",
+      "name": "Brightening Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+brightening+product+2",
+      "description": "Brightening product for normal skin - type 2.",
+      "skinType": "normal",
+      "concern": "brightening"
+    },
+    {
+      "id": "normal_brightening-3",
+      "name": "Brightening Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+brightening+product+3",
+      "description": "Brightening product for normal skin - type 3.",
+      "skinType": "normal",
+      "concern": "brightening"
+    }
+  ],
+  "normal_largepores": [
+    {
+      "id": "normal_largepores-1",
+      "name": "Large Pores Treatment 1",
+      "brand": "Brand A",
+      "price": "Rp 99.000",
+      "rating": 4.5,
+      "image": "/images/product-1.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+large pores+product+1",
+      "description": "Large Pores product for normal skin - type 1.",
+      "skinType": "normal",
+      "concern": "large pores"
+    },
+    {
+      "id": "normal_largepores-2",
+      "name": "Large Pores Treatment 2",
+      "brand": "Brand B",
+      "price": "Rp 129.000",
+      "rating": 4.6,
+      "image": "/images/product-2.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+large pores+product+2",
+      "description": "Large Pores product for normal skin - type 2.",
+      "skinType": "normal",
+      "concern": "large pores"
+    },
+    {
+      "id": "normal_largepores-3",
+      "name": "Large Pores Treatment 3",
+      "brand": "Brand C",
+      "price": "Rp 149.000",
+      "rating": 4.7,
+      "image": "/images/product-3.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=normal+large pores+product+3",
+      "description": "Large Pores product for normal skin - type 3.",
+      "skinType": "normal",
+      "concern": "large pores"
+    }
+  ],
+  "default": [
+    {
+      "id": "fallback-1",
+      "name": "Gentle Cleanser",
+      "brand": "Cetaphil",
+      "price": "Rp 90.000",
+      "rating": 4.6,
+      "image": "/images/gentle-cleanser.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=cetaphil+gentle+cleanser",
+      "description": "A mild cleanser suitable for all skin types.",
+      "skinType": "all",
+      "concern": "general"
+    },
+    {
+      "id": "fallback-2",
+      "name": "Hydrating Serum",
+      "brand": "The Ordinary",
+      "price": "Rp 110.000",
+      "rating": 4.7,
+      "image": "/images/hydrating-serum.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=the+ordinary+hydrating+serum",
+      "description": "Boosts hydration and soothes the skin.",
+      "skinType": "all",
+      "concern": "general"
+    },
+    {
+      "id": "fallback-3",
+      "name": "Lightweight Moisturizer",
+      "brand": "Neutrogena",
+      "price": "Rp 95.000",
+      "rating": 4.5,
+      "image": "/images/light-moisturizer.jpg",
+      "shopeeUrl": "https://shopee.co.id/search?keyword=neutrogena+lightweight+moisturizer",
+      "description": "Non-comedogenic moisturizer for daily use.",
+      "skinType": "all",
+      "concern": "general"
+    }
+  ]
+}
