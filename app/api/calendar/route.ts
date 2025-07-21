@@ -62,7 +62,7 @@ export async function POST(req: NextRequest) {
     const calendar = google.calendar({ version: "v3", auth: oauth2Client })
 
     const eventStartTime = new Date(routine.scheduledTime)
-    const eventEndTime = new Date(eventStartTime.getTime() + 30 * 60 * 1000) // 30 min
+    const eventEndTime = new Date(eventStartTime.getTime() + 30 * 60 * 1000)
 
     const description = `
 🌟 GlowTech Skincare Routine: ${routine.name}
@@ -154,8 +154,7 @@ ${routine.steps.map((step, i) => `${i + 1}. ${step}`).join("\n")}
 
 async function saveRoutineToDatabase(routine: SkincareRoutine, userId: string, eventId: string) {
   try {
-    const { createClient } = await import("@/lib/supabase")
-    const supabase = createClient()
+    const { supabase } = await import("../../../lib/supabase")
 
     const { error } = await supabase.from("skincare_routines").insert({
       user_id: userId,
@@ -182,8 +181,7 @@ export async function GET(req: NextRequest) {
       return NextResponse.json({ error: "User ID required" }, { status: 400 })
     }
 
-    const { createClient } = await import("@/lib/supabase")
-    const supabase = createClient()
+    const { supabase } = await import("../../../lib/supabase")
 
     const { data: routines, error } = await supabase
       .from("skincare_routines")
@@ -211,8 +209,7 @@ export async function DELETE(req: NextRequest) {
       return NextResponse.json({ error: "Routine ID and User ID required" }, { status: 400 })
     }
 
-    const { createClient } = await import("@/lib/supabase")
-    const supabase = createClient()
+    const { supabase } = await import("../../../lib/supabase")
 
     const { data: routine, error: fetchError } = await supabase
       .from("skincare_routines")
