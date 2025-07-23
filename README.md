@@ -1,9 +1,7 @@
 # 🤖 Chatbot Skincare - Website Interaktif
 
 Website ini adalah proyek chatbot interaktif bertema skincare, dibangun menggunakan **Next.js**, **Supabase**, dan **Google Generative AI (Gemini)**. Aplikasi ini membantu pengguna menjawab pertanyaan seputar perawatan kulit serta membuat jadwal skincare secara personal.
-
-✅ **Status: Proyek 100% Berjalan dan Selesai**
-
+🌐 **Website live bisa diakses di:** [https://glow-tech-ai.vercel.app/](https://glow-tech-ai.vercel.app/)
 ---
 
 ## 📚 Daftar Isi
